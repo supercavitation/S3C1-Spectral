@@ -206,7 +206,7 @@
   {
     "speciesId": "raichu_alolan",
     "fastMove": "VOLT_SWITCH",
-    "chargedMoves": ["WILD_CHARGE","PSYSHOCK"],
+    "chargedMoves": ["VOLT_TACKLE","PSYSHOCK"],
     "weight": 1
   },
   {
