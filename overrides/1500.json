@@ -7,16 +7,16 @@
   },
   {
     "speciesId": "amoonguss",
-    "weight": 4
+    "weight": 3
   },
   {
     "speciesId": "arbok",
-    "weight": 6
+    "weight": 3
   },
   {
     "speciesId": "arctibax",
     "chargedMoves": ["DRAGON_CLAW","ICY_WIND"],
-    "weight": 17
+    "weight": 20
   },
   {
     "speciesId": "avalugg",
@@ -35,12 +35,12 @@
   },
   {
     "speciesId": "castform_snowy",
-    "weight": 4
+    "weight": 1
   },
   {
     "speciesId": "centiskorch",
     "chargedMoves": ["LUNGE","CRUNCH"],
-    "weight": 5
+    "weight": 2
   },
   {
     "speciesId": "ceruledge",
@@ -62,13 +62,13 @@
     "speciesId": "charjabug",
     "fastMove": "VOLT_SWITCH",
     "chargedMoves": ["X_SCISSOR","CRUNCH"],
-    "weight": 6
+    "weight": 16
   },
   {
     "speciesId": "cofagrigus",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["SHADOW_BALL","DARK_PULSE"],
-    "weight": 8
+    "weight": 17
   },
   {
     "speciesId": "crobat",
@@ -82,11 +82,12 @@
   },
   {
     "speciesId": "dewgong",
-    "weight": 16
+    "chargedMoves": ["ICY_WIND","DRILL_RUN"],
+    "weight": 12
   },
   {
     "speciesId": "dragalge",
-    "weight": 5
+    "weight": 2
   },
   {
     "speciesId": "drifblim",
@@ -103,7 +104,7 @@
     "speciesId": "froslass",
     "fastMove": "HEX",
     "chargedMoves": ["AVALANCHE","SHADOW_BALL"],
-    "weight": 7
+    "weight": 1
   },
   {
     "speciesId": "galvantula",
@@ -117,12 +118,12 @@
   },
   {
     "speciesId": "glalie",
-    "weight": 19
+    "weight": 15
   },
   {
     "speciesId": "golisopod",
-    "fastMove": "SHADOW_CLAW",
-    "weight": 25
+    "fastMove": "FURY_CUTTER",
+    "weight": 35
   },
   {
     "speciesId": "gourgeist_average",
@@ -142,6 +143,10 @@
     "weight": 1
   },
   {
+    "speciesId": "grumpig",
+    "weight": 7
+  },
+  {
     "speciesId": "hatterene",
     "fastMove": "PSYCHO_CUT",
     "chargedMoves": ["PSYSHOCK","DAZZLING_GLEAM"],
@@ -155,7 +160,7 @@
   },
   {
     "speciesId": "hypno",
-    "weight": 10
+    "weight": 15
   },
   {
     "speciesId": "koffing",
@@ -180,12 +185,12 @@
   {
     "speciesId": "ninetales_alolan",
     "fastMove": "POWDER_SNOW",
-    "weight": 18
+    "weight": 10
   },
   {
     "speciesId": "piloswine",
     "chargedMoves": ["ICICLE_SPEAR", "STONE_EDGE"],
-    "weight": 7
+    "weight": 6
   },
   {
     "speciesId": "pumpkaboo_average",
@@ -201,7 +206,7 @@
   },
   {
     "speciesId": "qwilfish",
-    "weight": 10
+    "weight": 4
   },
   {
     "speciesId": "raichu_alolan",
@@ -218,36 +223,36 @@
   {
     "speciesId": "runerigus",
     "chargedMoves": ["BRUTAL_SWING","ROCK_TOMB"],
-    "weight": 12
+    "weight": 7
   },
   {
     "speciesId": "skeledirge",
     "fastMove": "HEX",
     "chargedMoves": ["SHADOW_BALL","TORCH_SONG"],
-    "weight": 15
+    "weight": 10
   },
   {
     "speciesId": "slowbro",
     "chargedMoves": ["DRAIN_PUNCH", "SCALD"],
-    "weight": 1
+    "weight": 7
   },
   {
     "speciesId": "slowking_galarian",
     "fastMove": "ACID",
-    "weight": 13
+    "weight": 3
   },
   {
     "speciesId": "starmie",
-    "weight": 10
+    "weight": 8
   },
   {
     "speciesId": "swalot",
     "fastMove": "MUD_SHOT",
-    "weight": 8
+    "weight": 2
   },
   {
     "speciesId": "tentacruel",
-    "weight": 10
+    "weight": 12
   },
   {
     "speciesId": "vespiquen",
@@ -259,10 +264,10 @@
     "speciesId": "weezing_galarian",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["SLUDGE","BRUTAL_SWING"],
-    "weight": 12
+    "weight": 30
   },
   {
     "speciesId": "weezing",
-    "weight": 10
+    "weight": 1
   }
 ]
